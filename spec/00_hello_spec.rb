@@ -1,4 +1,4 @@
-require_relative '../lib/00_hello'
+require_relative '/home/mathis/ruby/test/tests-ruby/lib/00_hello'
 
 describe "the hello function" do
   it "says hello" do

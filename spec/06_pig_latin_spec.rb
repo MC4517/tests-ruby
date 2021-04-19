@@ -1,4 +1,4 @@
-require_relative '../lib/06_pig_latin'
+require_relative '/home/mathis/ruby/test/tests-ruby/lib/06_pig_latin'
 
 describe "#translate" do
 

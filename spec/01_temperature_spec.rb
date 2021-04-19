@@ -1,4 +1,4 @@
-require_relative '../lib/01_temperature'
+require_relative '/home/mathis/ruby/test/tests-ruby/lib/01_temperature'
 
 describe "temperature conversion functions" do
 
